@@ -41,7 +41,7 @@ body{
     text-transform: capitalize;
 }
 
-.navbar .signin-btn{
+.navbar .signup-btn{
     color: #AD4C4C;
     border: 2px solid #AD4C4C;
     border-radius: 5px;
